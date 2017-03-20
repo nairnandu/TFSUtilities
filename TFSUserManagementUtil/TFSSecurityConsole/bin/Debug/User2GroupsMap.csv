@@ -1,5 +1,0 @@
-# Comments: Lines starting with # are ignored
-# User,TFSSecurityGroups,TFSTeamProjects
-
-nandutfs15\TFSPowerUser,Test|Test1,DemoWeb|CloudWeb
-nandutfs15\TFSDummyUser,Test|Test1,DemoWeb|CloudWeb

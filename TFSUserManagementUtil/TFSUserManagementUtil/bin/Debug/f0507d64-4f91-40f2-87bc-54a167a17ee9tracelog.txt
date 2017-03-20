@@ -1,1 +1,0 @@
-5/9/2016 5:40:09 PM: Connection established and Identity Management Service instance created.

@@ -1,3 +1,0 @@
-5/25/2016 2:20:30 PM: Connection established and Identity Management Service instance created.
-5/25/2016 2:23:14 PM: User nandutfs15\TFSPowerUser not found in context: 
-5/25/2016 2:23:14 PM: User nandutfs15\TFSDummyUser not found in context: 
