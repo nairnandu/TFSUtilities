@@ -1,0 +1,2 @@
+5/9/2016 5:30:57 PM: Connection established and Identity Management Service instance created.
+5/9/2016 5:31:04 PM: The server could not be contacted.

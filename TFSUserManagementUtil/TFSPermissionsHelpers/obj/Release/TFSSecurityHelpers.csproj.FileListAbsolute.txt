@@ -1,0 +1,17 @@
+D:\Documents\Visual Studio 2015\Projects\TFSSecurityUtil\TFSSecurityHelpers\bin\Release\TFSSecurityHelpers.dll
+D:\Documents\Visual Studio 2015\Projects\TFSSecurityUtil\TFSSecurityHelpers\bin\Release\TFSSecurityHelpers.pdb
+D:\Documents\Visual Studio 2015\Projects\TFSSecurityUtil\TFSSecurityHelpers\bin\Release\Microsoft.TeamFoundation.Client.dll
+D:\Documents\Visual Studio 2015\Projects\TFSSecurityUtil\TFSSecurityHelpers\bin\Release\Microsoft.TeamFoundation.Common.dll
+D:\Documents\Visual Studio 2015\Projects\TFSSecurityUtil\TFSSecurityHelpers\bin\Release\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2015\Projects\TFSSecurityUtil\TFSSecurityHelpers\bin\Release\Microsoft.VisualStudio.Services.Common.dll
+D:\Documents\Visual Studio 2015\Projects\TFSSecurityUtil\TFSSecurityHelpers\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Documents\Visual Studio 2015\Projects\TFSSecurityUtil\TFSSecurityHelpers\bin\Release\Microsoft.VisualStudio.Services.Client.dll
+D:\Documents\Visual Studio 2015\Projects\TFSSecurityUtil\TFSSecurityHelpers\bin\Release\Microsoft.VisualStudio.Services.WebApi.dll
+D:\Documents\Visual Studio 2015\Projects\TFSSecurityUtil\TFSSecurityHelpers\bin\Release\Microsoft.TeamFoundation.Core.WebApi.dll
+D:\Documents\Visual Studio 2015\Projects\TFSSecurityUtil\TFSSecurityHelpers\bin\Release\Microsoft.TeamFoundation.Diff.dll
+D:\Documents\Visual Studio 2015\Projects\TFSSecurityUtil\TFSSecurityHelpers\bin\Release\Microsoft.ServiceBus.dll
+D:\Documents\Visual Studio 2015\Projects\TFSSecurityUtil\TFSSecurityHelpers\bin\Release\System.Net.Http.Formatting.dll
+D:\Documents\Visual Studio 2015\Projects\TFSSecurityUtil\TFSSecurityHelpers\bin\Release\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2015\Projects\TFSSecurityUtil\TFSSecurityHelpers\obj\Release\TFSSecurityHelpers.dll
+D:\Documents\Visual Studio 2015\Projects\TFSSecurityUtil\TFSSecurityHelpers\obj\Release\TFSSecurityHelpers.pdb
+D:\Documents\Visual Studio 2015\Projects\TFSSecurityUtil\TFSSecurityHelpers\obj\Release\TFSSecurityHelpers.csprojResolveAssemblyReference.cache
