@@ -40,7 +40,7 @@ namespace TFSPermissionsHelpers
     public static class Constants
     {
         public const string LOG_FILE_NAME = "tracelog.txt";
-        public const string USERGUIDE_FILE_NAME = "TFSSecurityUtil.pdf";
+        public const string USERGUIDE_FILE_NAME = "TFSUserManagementUtil.docx";
     }
 
     public enum FileContentType
