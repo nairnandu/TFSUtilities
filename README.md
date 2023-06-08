@@ -1,3 +1,5 @@
+# This project is not actively maintained. Please create a PR for issues.
+
 # TFSUtilities
 Collection of sample code libraries to help with automation of TFS activities.
 
